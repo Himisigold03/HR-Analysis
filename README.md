@@ -15,6 +15,8 @@ This capstone project is an HR data analysis that shows trends across years, att
 
 ## Data Exploration
 The data was messy, consisting of inconsistencies and formatting issues that were not palatable for analysis. It initially consisted of 8 columns and 158 rows (including the header), and contained missing values and misspelled words that made analysis difficult.
+<img width="561" height="266" alt="Raw data" src="https://github.com/user-attachments/assets/c657bb5a-e449-41c1-88a9-d07b5a59b153" />
+
 
 ## Data Cleaning Process
 1. Checked the quality of the data to understand how messy it was.
@@ -43,6 +45,7 @@ The data was messy, consisting of inconsistencies and formatting issues that wer
 18. Calculated Years of Service by extracting the year from the Hire Date and subtracting it from the current year.
 19. Structured the cleaned data into a table, ready for analysis.
 20. Final dataset: 151 rows and 13 columns, including the header.
+<img width="569" height="225" alt="HR Data" src="https://github.com/user-attachments/assets/2c24f46f-179d-4676-bea6-3167ebc6d264" />
 
 ## Insights Generation
 - **Total employees:** 150
@@ -51,8 +54,10 @@ The data was messy, consisting of inconsistencies and formatting issues that wer
 - The **Information Technology** department has the highest total salary spend among all departments, at $3,042,552 — the sum of salaries paid to all employees within that department.
 - Bonuses were not given to employees with a performance score below 49 — meaning bonus eligibility is tied directly to performance, leaving room for improvement among lower scorers.
 - Comparing average performance score with employment status: employees who **resigned** had the highest average performance score, and the average score of those who **left** was close to that of **active** employees. This suggests attrition was **not** primarily driven by performance.
+<img width="567" height="262" alt="HR anlysis" src="https://github.com/user-attachments/assets/e3019925-759e-4f64-a15c-4d62bd237705" />
 
 ## Dashboard
+<img width="341" height="229" alt="HR Dashboard" src="https://github.com/user-attachments/assets/45e1ba72-6726-4a39-bd99-c56d11619172" />
 
 
 ## Recommendations
