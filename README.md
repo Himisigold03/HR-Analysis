@@ -49,7 +49,8 @@ The data was messy, consisting of inconsistencies and formatting issues that wer
 
 ## Insights Generation
 - **Total employees:** 150
-- **Average salary:** $83,010
+- **Total Salary:** $11,931,095
+- **Average salary:** $82,283 per person
 - **Total attrition rate:** 23% (16% terminated, 7% resigned)
 - The **Information Technology** department has the highest total salary spend among all departments, at $3,042,552 — the sum of salaries paid to all employees within that department.
 - Bonuses were not given to employees with a performance score below 49 — meaning bonus eligibility is tied directly to performance, leaving room for improvement among lower scorers.
@@ -57,7 +58,9 @@ The data was messy, consisting of inconsistencies and formatting issues that wer
 <img width="567" height="262" alt="HR anlysis" src="https://github.com/user-attachments/assets/e3019925-759e-4f64-a15c-4d62bd237705" />
 
 ## Dashboard
-<img width="341" height="229" alt="HR Dashboard" src="https://github.com/user-attachments/assets/45e1ba72-6726-4a39-bd99-c56d11619172" />
+
+<img width="889" height="519" alt="image" src="https://github.com/user-attachments/assets/876dea2f-bc03-4d59-ae18-0e67e5702a4c" />
+
 
 
 ## Recommendations
